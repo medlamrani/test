@@ -1,0 +1,16 @@
+{
+    "name": "medla/projet5",
+    "authors": [
+        {
+            "name": "medlamrani",
+            "email": "45313009+medlamrani@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" :{
+            "Project\\": "src/"
+        }
+    },
+
+    "require": {}
+}
